@@ -65,8 +65,8 @@ curl_close($curl);
 if ($err) {
   echo "cURL Error #:" . $err;
 } else {
-  $data = json_decode($response, true)["rajaongkir"]["results"];
-  return compact('data');
+  $city = json_decode($response, true)["rajaongkir"]["results"];
+  return compact('city');
 }
 }
 }
