@@ -14,3 +14,6 @@
 Route::get('/', function () {
     return view('welcome');
 });
+
+Route::get('task2', 'Task2Controller@index');
+Route::get('task2/getCity/{id}', 'Task2Controller@getCity');
