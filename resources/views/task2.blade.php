@@ -8,7 +8,9 @@
   </head>
   <body>
     <div class="col-md-4 mx-auto" style="margin-top:50px; background-color:rgba(0,0,0,0.3); padding:50px; border-radius:10px">
-
+      <a href="{{url('/')}}">Home</a> / <a href="{{url('/task1')}}">Task #1</a>
+      <br>
+      <br>
 
     <h3>Search</h3>
     <div class="attributes">

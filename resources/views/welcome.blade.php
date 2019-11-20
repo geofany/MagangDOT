@@ -85,8 +85,8 @@
                 </div>
 
                 <div class="links">
-                    <a href="https://laravel.com/docs">Task #1</a>
-                    <a href="https://laracasts.com">Task #2</a>
+                    <a href="{{url('/task1')}}">Task #1</a>
+                    <a href="{{url('/task2')}}">Task #2</a>
 
             </div>
         </div>

@@ -17,3 +17,5 @@ Route::get('/', function () {
 
 Route::get('task2', 'Task2Controller@index');
 Route::get('task2/getCity/{id}', 'Task2Controller@getCity');
+Route::get('task1', 'Task1Controller@index');
+Route::post('task1/findNumber', 'Task1Controller@findNumber');
