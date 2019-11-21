@@ -50,3 +50,7 @@ terdapat Kota / Kabupaten :
  - Karangasem 
  - Klungkung
  - Tabanan
+
+
+## ASSUMPTIONS
+[assumptions.md](https://github.com/geofany/MagangDOT/blob/master/assumptions.md)
