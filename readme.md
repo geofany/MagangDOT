@@ -29,13 +29,17 @@ Di Home Terdapat 2 Menu yaitu `Task #1` dan `Task #2`. dimana Menu Tersebut akan
 ## Task #1
 
 Program pada Task #1 berisi Program untuk mencari Angka Terbesar ke 2 dalam sebuah barisan angka
+
 misal barisan angka : 5, 2, 10, 13, 15
+
 maka Program akan memunculkan angka 13 dimana angka tersebut adalah angka Terbesar ke 2 dalam barisan tersebut
 
 ## Task #2
 
 Program pada Task #2 berisi Program untuk menampilkan Kota apa saja Yang ada dalam sebuah Provinsi tertentu
+
 misal Provinsi Bali
+
 terdapat Kota / Kabupaten :
  - Badung 
  - Bangli 
