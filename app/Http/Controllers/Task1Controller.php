@@ -28,6 +28,9 @@ class Task1Controller extends Controller
           $max2 = $arr[$i];
         }
       }
+      if ($max2 == -9223372036854775808) {
+        $max2 = "Masukkan Minimal 2 Angka";
+      }
       return view('task1', ['var' => $max2]);
     }
 }
